@@ -1,7 +1,7 @@
 # docker-node-headless-chrome
 
-[![Docker Automated build](https://img.shields.io/docker/automated/catsoss/node-headless-chrome.svg?style=flat-square)](https://hub.docker.com/r/catsoss/node-headless-chrome/)
-[![Docker Build Status](https://img.shields.io/docker/build/catsoss/node-headless-chrome.svg?style=flat-square)](https://hub.docker.com/r/catsoss/node-headless-chrome/)
+[![Docker Automated build](https://img.shields.io/docker/automated/sgcomsysto/node-headless-chrome.svg?style=flat-square)](https://hub.docker.com/r/sgcomsysto/node-headless-chrome/)
+[![Docker Build Status](https://img.shields.io/docker/build/sgcomsysto/node-headless-chrome.svg?style=flat-square)](https://hub.docker.com/r/sgcomsysto/node-headless-chrome/)
 
 > Docker Image for Chrome headless.
 
